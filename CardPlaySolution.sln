@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardPlay", "CardPlay\CardPlay.csproj", "{EBCDF580-84D4-486E-BEBA-1A357CF95550}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardPlayTest", "CardPlayTest\CardPlayTest.csproj", "{5F032589-A6AA-490F-AE94-EA4D66D4DAEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{42491682-98A7-410A-AB2E-F85EFAE4DB13}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\Deck of Cards v1.0.docx = ..\..\..\Downloads\Deck of Cards v1.0.docx
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCDF580-84D4-486E-BEBA-1A357CF95550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCDF580-84D4-486E-BEBA-1A357CF95550}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCDF580-84D4-486E-BEBA-1A357CF95550}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCDF580-84D4-486E-BEBA-1A357CF95550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F032589-A6AA-490F-AE94-EA4D66D4DAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F032589-A6AA-490F-AE94-EA4D66D4DAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F032589-A6AA-490F-AE94-EA4D66D4DAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F032589-A6AA-490F-AE94-EA4D66D4DAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4F32BA7-2021-40B4-9A2E-6B7387B0C4A7}
+	EndGlobalSection
+EndGlobal
